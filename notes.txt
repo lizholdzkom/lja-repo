@@ -1,1 +1,3 @@
-testing creating from terminal
+testing creating from terminal.
+
+This is going to be my second commit for this notes document.
